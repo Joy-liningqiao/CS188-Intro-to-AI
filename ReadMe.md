@@ -1,5 +1,5 @@
 # Projects for CS 188 - Introduction to AI @ Berkeley
-Learnt on AI concepts by implementing them for pacman. Below is the overview of the concepts
+Learnt AI concepts by implementing them for pacman. Below is the overview of the concepts
 ## Project 1 - Search Algorithms
 - DFS
 - BFS

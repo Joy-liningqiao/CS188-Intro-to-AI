@@ -18,3 +18,10 @@ Learnt AI concepts by implementing them for pacman. Below is the overview of the
 - Prioritized Sweeping Value Iteration
 - Q-Learning
 - Approximate Q-Learning
+
+## Project 4 - Bayes Nets & Hidden Markov Models
+- Bayes Nets
+- Probability Distribution Tables
+- Particle Filtering
+- Observe Update 
+- Time Elapse Update

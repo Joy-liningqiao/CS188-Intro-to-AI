@@ -373,7 +373,7 @@ class Counter(dict):
         will remain the same. Note that normalizing an empty
         Counter will result in an error.
         """
-        total = float(self.totalCount())
+        total = float(sum(self.values()))
         if total == 0:
             return
         for key in list(self.keys()):

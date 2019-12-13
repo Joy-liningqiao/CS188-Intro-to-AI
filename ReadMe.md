@@ -25,3 +25,8 @@ Learnt AI concepts by implementing them for pacman. Below is the overview of the
 - Particle Filtering
 - Observe Update 
 - Time Elapse Update
+
+## Project 5 - Machine Learning
+- Image Classification using logisitic regression
+- CNN
+- RNN
